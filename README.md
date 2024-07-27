@@ -15,3 +15,5 @@ Business Strategy
 Market Analysis
 Data Visualization
 I am passionate about using data to drive business decisions and improve customer experiences. This project showcases my ability to turn raw data into strategic insights that can lead to tangible business growth.
+![Dashboard](https://github.com/user-attachments/assets/e08ea5d5-b247-42ee-b3b0-be865714c0e3)
+
